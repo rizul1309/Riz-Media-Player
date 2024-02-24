@@ -10,8 +10,9 @@ const SearchBar = () => {
     e.preventDefault();
     if(searchterm)
     {
+      const encodedSearchTerm = encodeURIComponent(searchterm);
       console.log(`/search/${searchterm}`)
-      navigate(`/search/${searchterm}`);
+      navigate(`/search/${encodedSearchTerm}`);
       setsearchterm('')
     }
   }
