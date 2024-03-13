@@ -16,7 +16,7 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
+  { name: 'Shark Tank Season 3', icon: <OndemandVideoIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
@@ -34,9 +34,9 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
+export const demoThumbnailUrl = 'https://i.ibb.co/https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-psd%2F3d-square-with-youtube-logo_125540-1573.jpg&tbnid=yMnRbPa7864dsM&vet=12ahUKEwjrvL7TqvCEAxVRzDgGHfctAYUQMygKegQIARBF..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fyoutube-logo-png&docid=NnMx1KkJrxgAtM&w=626&h=473&q=youtube.png&ved=2ahUKEwjrvL7TqvCEAxVRzDgGHfctAYUQMygKegQIARBFG2L2Gwp/API-Course.png';
+export const demoChannelUrl = '/channel/UCBR8-60-B28hp2BmDPdntcQ';
+export const demoVideoUrl = '/video/_GuOjXYl5ew';
+export const demoChannelTitle = 'Youtube';
+export const demoVideoTitle = 'Youtube Rewind';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
