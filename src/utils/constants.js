@@ -17,7 +17,7 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
   { name: 'Shark Tank Season 3', icon: <OndemandVideoIcon />, },
-  { name: 'Coding', icon: <CodeIcon />, },
+  { name: 'Smart Energy Water', icon: <DeveloperModeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
